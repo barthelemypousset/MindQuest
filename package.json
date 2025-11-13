@@ -11,8 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@react-navigation/bottom-tabs": "^7.8.4",
-    "@react-navigation/native": "^7.1.19",
+    
     "@tailwindcss/vite": "^4.1.17",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
