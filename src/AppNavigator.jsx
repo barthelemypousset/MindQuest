@@ -1,8 +1,8 @@
 
 import React, { useState } from "react";
-import HomeScreen from "./screens/HomeScreen";
-import GamesScreen from "./screens/GamesScreen";
-import InventoryScreen from "./screens/InventoryScreen";
+import HomeScreen from "./pages/HomeScreen";
+import GamesScreen from "./pages/GamesScreen";
+import InventoryScreen from "./pages/InventoryScreen";
 
 const TABS = [
   { name: "Progression", component: <HomeScreen /> },
